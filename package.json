@@ -5,22 +5,24 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --require test/setup.js",
-    "start": "node src/server.js",
-    "dev": "nodemon src/server.js",
-    "predeploy": "npm audit",
-    "deploy": "git push heroku master"
+    "start": "node src/blogful.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.2.0",
     "cors": "^2.8.5",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
     "express-router": "0.0.1",
     "helmet": "^3.16.0",
+    "knex": "^0.16.5",
+    "mocha": "^6.1.4",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.0",
+    "pg": "^7.10.0",
+    "supertest": "^4.0.2",
     "winston": "^3.2.1"
   }
 }

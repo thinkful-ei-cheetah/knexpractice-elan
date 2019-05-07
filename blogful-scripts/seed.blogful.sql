@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles (title, content, date_published)
+  values
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00'),
+  ('Hello World', 'This is the first blog pst. ', '2017-01-16 12:00:00');
